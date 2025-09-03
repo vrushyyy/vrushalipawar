@@ -1,60 +1,71 @@
-# Hi there! 👋 I'm Vrushali Pawar
+# Hi 👋, I am Vrushali Pawar
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;3%2B+Years+Experience;Angular+%7C+React+%7C+Node.js;Building+Scalable+Applications" alt="Typing SVG" />
-</div>
+## 🚗 About Me:
+📱 I'm a Software Engineer  
+💻 I'm currently building scalable web applications with Angular, React, Next.js and Node.js  
+🎯 3+ years of experience in Frontend & Backend Development
 
-## 🚀 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushali-p-63835619a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarvrush99@gmail.com)
 
-I'm a passionate **Software Engineer** with **3+ years** of experience crafting responsive and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-- 🔭 Currently working as **Software Engineer** at **Swing Technologies**
-- 🌱 Building expertise in **Angular, React, Next.js, and Node.js**
-- 💡 Passionate about **clean code architecture** and **performance optimization**
-- 🎯 Focused on creating **user-centric applications** with exceptional UX
-- 📫 Reach me at: **pawarvrush99@gmail.com**
+## 🌟 Key Projects:
 
-## 💻 Tech Stack
+### 🔍 InsightOps - AI-Powered Engineering Analytics Platform
+- AI-powered platform delivering real-time visibility and performance analytics across engineering operations
+- Helps enterprises monitor team health, track project progress, and analyze pull requests
+- Generates executive-level reports with actionable insights to improve developer productivity
+- Integrated with GitHub and GitLab for seamless workflow analysis
+- Reduces bottlenecks and enhances operational efficiency for development teams
+- **Tech**: Angular, Node.js, AI/ML Integration, GitHub/GitLab APIs
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 📱 Student QR Attendance System
+- Implemented QR-based attendance system for efficient student record management
+- Streamlined attendance tracking with instant and accurate batch-wise data
+- Automated process saving significant time and effort for teachers
+- **Tech**: Angular, Node.js, MySQL
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Hono.js](https://img.shields.io/badge/Hono.js-FF6600?style=for-the-badge&logo=hono&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
+### 🤖 CAPS-AI - POS Management System
+- Developed responsive UI using Angular 13/14, Bootstrap5, JavaScript, CSS3, HTML5
+- Integrated REST APIs with Node.js and Express for optimized data processing
+- Managed MySQL database schema ensuring real-time data updates for seamless POS functionality
+- Streamlined sales, inventory, and customer management improving transaction processing
+- **Tech**: Angular, Node.js, Express.js, MySQL, Bootstrap
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🏥 Nova Pre Vita - Diagnostic Platform  
+- Healthcare UI for blood test tracking and genomic reports
+- Real-time updates with React Query
+- **Tech**: Next.js, TypeScript, React Query, Hono.js
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 📈 Professional Achievements:
+- ⚡ **25%** faster application load times
+- 🔧 **30%** reduction in development time through modular architecture  
+- 🐛 **40%** fewer API-related bugs with robust error handling
+- 📝 **80+** pull requests maintaining high code quality
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vrushyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vrushyyyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vrushyyyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vrushyyyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💭 Random Dev Quote:
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vrushyyyy&icon=0&color=0)](https://visitcount.itsvg.in)
+**✨ Profile Views:** ![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
