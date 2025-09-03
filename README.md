@@ -57,6 +57,14 @@
 - 🐛 **40%** fewer API-related bugs with robust error handling
 - 📝 **80+** pull requests maintaining high code quality
 
+## 🎯 Current Focus:
+```text
+🔭 Working on: AI-powered engineering analytics platforms
+🌱 Learning: Advanced React patterns, GraphQL, and Cloud Architecture
+💡 Interests: AI/ML integration, DevOps automation, Performance optimization
+📫 Contact: pawarvrush99@gmail.com
+```
+
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
